@@ -1,22 +1,17 @@
-main.txt
-- Here goes some information about our app.
-
-flavors.txt
-- vanilla
-- chocolate
-- cookies and cream
-- rocky road
-- moose tracks
-- cotton candy
-
-states.txt
-- colorado
-- wyoming
-- utah
-- texas
-- pennsylvania
-- west virginia
-- new york
-- indiana
-- south carolina
-- south dakota
+Here goes some information about our app.
+vanilla
+chocolate
+cookies and cream
+rocky road
+moose tracks
+cotton candy
+colorado
+wyoming
+utah
+texas
+pennsylvania
+west virginia
+new york
+indiana
+south carolina
+south dakota
